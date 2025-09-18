@@ -22,7 +22,7 @@ A simple TERA mod that tracks card cooldowns for cards with known cooldown timer
 ### Normal Operation
 The mod works automatically once loaded:
 - **Green "activated" message** appears when a card procs
-- **Cooldown timer** starts showing remaining time as a buff icon
+- **Cooldown timer** starts showing remaining time as a buff icon (note: this is simplified by "simplify other effects")
 - **White "ready" message** appears when the card is available again
 
 ### Debug Mode
