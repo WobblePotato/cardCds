@@ -1,6 +1,6 @@
 # tato-cardcds
 
-A TERA mod that tracks card cooldowns for cards with known cooldown timers.
+A simple TERA mod that tracks card cooldowns for cards with known cooldown timers.
 
 ## Supported Cards
 
